@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92f3b901-9c3c-4711-93ce-c96fc089c82e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Supervised Learning/ModelGUI/.ipynb_checkpoints/TkinterGUI-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Supervised Learning/ModelGUI/TkinterGUI.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Supervised Learning/ModelGUI/TkinterGUI.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664807320424</updated>
-      <workItem from="1664807323274" duration="1615000" />
+      <workItem from="1664807323274" duration="1913000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1664807460674</created>
@@ -302,7 +303,49 @@
       <option name="project" value="LOCAL" />
       <updated>1664808994125</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="CREATING INTERFACE WITH TKINTER LIBRARY">
+      <created>1664809004874</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1664809004874</updated>
+    </task>
+    <task id="LOCAL-00036" summary="CREATING INTERFACE WITH TKINTER LIBRARY">
+      <created>1664809026107</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1664809026107</updated>
+    </task>
+    <task id="LOCAL-00037" summary="CREATING INTERFACE WITH TKINTER LIBRARY">
+      <created>1664809041548</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1664809041548</updated>
+    </task>
+    <task id="LOCAL-00038" summary="CREATING INTERFACE WITH TKINTER LIBRARY">
+      <created>1664809065891</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1664809065891</updated>
+    </task>
+    <task id="LOCAL-00039" summary="CREATING INTERFACE WITH TKINTER LIBRARY">
+      <created>1664809121277</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1664809121277</updated>
+    </task>
+    <task id="LOCAL-00040" summary="CREATING INTERFACE WITH TKINTER LIBRARY">
+      <created>1664809142098</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1664809142098</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
